@@ -54,7 +54,7 @@ I'm a passionate full-stack developer based in Accra. Welcome to my GitHub profi
 ## Connect with Me
 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nathan-kulewoshie-9084b2192)
-[<img align="left" alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />](https://twitter.com/)
+[<img align="left" alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />](https://twitter.com/Nathan00119)
 
 <br />
 
