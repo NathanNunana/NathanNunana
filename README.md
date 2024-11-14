@@ -48,7 +48,7 @@ I'm a passionate full-stack developer based in Accra. Welcome to my GitHub profi
 
 ![Nathan Kulewoshie's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seths10&layout=compact&theme=ayu-mirage&hide_border=true&count_private=true&langs_count=10)
 ![Nathan Kulewoshie's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=NathanNunana&theme=ayu-mirage&hide_border=true)
-<!-- ![Nathan Kulewoshie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NathanNunana&show_icons=true&count_private=true&theme=radical) -->
+![Nathan Kulewoshie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NathanNunana&show_icons=true&count_private=true&theme=radical)
 
 <!-- Connect with Me -->
 ## Connect with Me
